@@ -8,8 +8,8 @@
     padding-top: 20px;
   }
 
-.intro__right img,
-.about__upper img {
+.about__upper img,
+.intro__right img {
     width: 100%;
   }
 }
