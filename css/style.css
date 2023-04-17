@@ -37,11 +37,14 @@ a {
   text-decoration: none;
 }
 
+img {
+  color: var(--whisper);
+}
+
 body {
   min-width: 320px;
   max-width: 1440px;
   margin: 0 auto;
-  color: var(--whisper);
   font-family: "Roboto", sans-serif;
   background-color: var(--whisper);
 }
